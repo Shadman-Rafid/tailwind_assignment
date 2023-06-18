@@ -1,4 +1,4 @@
-.overflow{ max-height: 900px;}
+.overflow{ max-height: 1000px;}
 .flex img{width: 150px;
         height: 150px;
         padding-left: 20px;
@@ -15,5 +15,9 @@
 }
 .card img {
     border-radius: 0.4rem 0.4rem 0 0 ;
-    width: 600px;
+    width: 1000px;
+    height: 320px;
+}
+.totto {
+    width: 900px;
 }
