@@ -1,9 +1,19 @@
 .overflow{ max-height: 900px;}
-.grid img{width: 150px;
+.flex img{width: 150px;
         height: 150px;
         padding-left: 20px;
         padding-right:10px;
 }
 .photo {
     width: 280px;
+}
+.card
+{
+    /* width: 280px; */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.514);
+    border-radius: 0.4rem;
+}
+.card img {
+    border-radius: 0.4rem 0.4rem 0 0 ;
+    width: 600px;
 }
